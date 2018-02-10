@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Ethan Schofer",
+    "classifications": [ "HeroDigital", "Sitecore" ],
+    "identity": "HeroDigital.Sitecore",
+    "name": "Hero Digital Sitecore Visual Studio Template",
+    "shortName": "herodigitalsitecore"
+}
